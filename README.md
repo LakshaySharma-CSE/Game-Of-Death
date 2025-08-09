@@ -67,7 +67,7 @@ The final level is a **Windows-only** psychological challenge simulating a fake 
    python Game_of_death.py
    ```
 
-3. Follow the instructions in the terminal.
+3. **Follow the instructions in the terminal.**
 
 ---
 
