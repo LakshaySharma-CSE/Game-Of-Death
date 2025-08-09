@@ -51,7 +51,7 @@ The final level is a **Windows-only** psychological challenge simulating a fake 
 
 
 ## 🚀 How to Play
-1. ** To install Module:(Random2)**
+1. **To install Module:(Random2)**
       ```bash
       pip install random2
       
