@@ -47,15 +47,21 @@ The final level is a **Windows-only** psychological challenge simulating a fake 
 
 ---
 
-## 🚀 How to Play
+````
 
-1. **Clone this repository:**
+
+## 🚀 How to Play
+1. ** To install Module:(Random2)**
+      ```bash
+      pip install random2
+      
+2. **Clone this repository:**
    ```bash
    git clone https://github.com/yourusername/game-of-death.git
    cd game-of-death
-````
 
-2. **Run the game:**
+
+3. **Run the game:**
 
    ```bash
    python Game_of_death.py
